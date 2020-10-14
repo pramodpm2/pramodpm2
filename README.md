@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning ...,BootStrap,Web-Developement
 - 👯 I’m looking to collaborate on ...Python,Web-Developement
 <!-- 🤔 I’m looking for help with ...-->
-- 💬 Ask me about ...Anything
+- 💬 Ask me about ...Python
 - 📫 How to reach me: ...[website](https://pramodpm2.github.io)
 - 😄 Pronouns: ...He/Him
 - ⚡ Fun fact: ...I'm Half Finnish
