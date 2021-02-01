@@ -24,3 +24,4 @@ Here are some ideas to get you started:
 </p>
 
 [![Pramod P M's GitHub stats](https://github-readme-stats.vercel.app/api?username=pramodpm2)](https://github.com/pramodpm2/github-readme-stats)
+![Pramod P M's GitHub stats](https://github-readme-stats.vercel.app/api?username=pramodpm2&hide=contribs,prs)
