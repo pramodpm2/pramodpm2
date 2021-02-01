@@ -25,4 +25,4 @@ Here are some ideas to get you started:
 
 
 ![Pramod P M's GitHub stats](https://github-readme-stats.vercel.app/api?username=pramodpm2&show_icons=true&theme=radical)
-[![Pramod P M's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=pramodpm2)](https://github.com/pramodpm2/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pramodpm2&layout=compact)](https://github.com/pramodpm2/github-readme-stats)
