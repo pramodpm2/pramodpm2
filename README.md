@@ -25,3 +25,6 @@ Here are some ideas to get you started:
 
 [![Pramod P M's GitHub stats](https://github-readme-stats.vercel.app/api?username=pramodpm2)](https://github.com/pramodpm2/github-readme-stats)
 ![Pramod P M's GitHub stats](https://github-readme-stats.vercel.app/api?username=pramodpm2&hide=contribs,prs)
+![Pramod P M's GitHub stats](https://github-readme-stats.vercel.app/api?username=pramodpm2&count_private=true)
+![Pramod P M's GitHub stats](https://github-readme-stats.vercel.app/api?username=pramodpm2&show_icons=true)
+![Pramod P M's GitHub stats](https://github-readme-stats.vercel.app/api?username=pramodpm2&show_icons=true&theme=radical)
