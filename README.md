@@ -23,8 +23,8 @@ Here are some ideas to get you started:
 <a href="https://fb.com/https://www.facebook.com/pramod.pm.7106" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="https://www.facebook.com/pramod.pm.7106" height="30" width="30" /></a>
 </p>
 
-[![Pramod P M's GitHub stats](https://github-readme-stats.vercel.app/api?username=pramodpm2)](https://github.com/pramodpm2/github-readme-stats)
-![Pramod P M's GitHub stats](https://github-readme-stats.vercel.app/api?username=pramodpm2&hide=contribs,prs)
-![Pramod P M's GitHub stats](https://github-readme-stats.vercel.app/api?username=pramodpm2&count_private=true)
-![Pramod P M's GitHub stats](https://github-readme-stats.vercel.app/api?username=pramodpm2&show_icons=true)
+//[![Pramod P M's GitHub stats](https://github-readme-stats.vercel.app/api?username=pramodpm2)](https://github.com/pramodpm2/github-readme-stats)
+//![Pramod P M's GitHub stats](https://github-readme-stats.vercel.app/api?username=pramodpm2&hide=contribs,prs)
+//![Pramod P M's GitHub stats](https://github-readme-stats.vercel.app/api?username=pramodpm2&count_private=true)
+//![Pramod P M's GitHub stats](https://github-readme-stats.vercel.app/api?username=pramodpm2&show_icons=true)
 ![Pramod P M's GitHub stats](https://github-readme-stats.vercel.app/api?username=pramodpm2&show_icons=true&theme=radical)
