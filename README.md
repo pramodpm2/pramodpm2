@@ -11,6 +11,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...[website](https://pramodpm2.github.io)
 - 😄 Pronouns: ...He/Him
 - ⚡ Fun fact: ...I'm Half Finnish
+- ![](https://komarev.com/ghpvc/?username=pramodpm2&color=blueviolet)
 
 
 <h1 align="center">Hi 👋, I'm Pramod P M</h1>
