@@ -3,12 +3,12 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...Python
-- 🌱 I’m currently learning ...,BootStrap,Web-Developement
-- 👯 I’m looking to collaborate on ...Python,Web-Developement
+- 🔭 I’m currently working on ...Python,Django
+- 🌱 I’m currently learning ...,BootStrap,JavaScript,React JS
+- 👯 I’m looking to collaborate on ...Python,Web-Developement projects
 <!-- 🤔 I’m looking for help with ...-->
 - 💬 Ask me about ...Python
-- 📫 How to reach me: ...[website](https://pramodpm2.github.io)
+- 📫 How to reach me: ...[portfolio](https://pramodpm2.github.io)
 - 😄 Pronouns: ...He/Him
 - ⚡ Fun fact: ...I'm Half Finnish
 - ![](https://komarev.com/ghpvc/?username=pramodpm2&color=blueviolet)
@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Pramod P M</h1>
 <h3 align="center">A Passionate Frontend And Backend Developer From India</h3>
 
-- 🤝 I’m looking for an Intenship  **front and backend developement**
+- 🤝 I’m looking for an Intenship  **front and backend developement projects**
 
 
 
